@@ -1,6 +1,19 @@
 # gorgeous-clock
 
-> my second vue project
+> 绚丽的倒计时时钟
+
+>功能： 
+
+1. 设置需要定时的项目（事项），然后点击设置倒计时，即可在输入框随意输入倒计时时间（时间不得大于99H）
+
+2. 倒计时开始后，随着时间的变化，会产生相应的小球掉落的效果
+
+3. 倒计时结束后，会播放音乐提示
+
+>相关技术 
+
+vue 2.0,  html5 canvas,  webaudio,  ajax
+
 
 ## Build Setup
 
