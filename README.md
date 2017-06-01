@@ -10,6 +10,8 @@
 
 3. 倒计时结束后，会播放音乐提示
 
+![image](https://github.com/sanfollb/gorgeous-clock/blob/master/public/QQ%E5%9B%BE%E7%89%8720170601175732.png)
+
 >相关技术 
 
 vue 2.0,  html5 canvas,  webaudio,  ajax
